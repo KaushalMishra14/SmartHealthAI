@@ -11,6 +11,7 @@ const jwt = require("jsonwebtoken");
 const User = require("./models/User");
 const app = express();
 connectDB()
+const ML_API_URL = process.env.ML_API_URL || "http://localhost:8000";
 
 app.use(cors())
 app.use(express.json())
@@ -25,7 +26,7 @@ app.get("/", (req, res) => {
 
 app.get("/api/symptoms", async (req, res) => {
   try {
-    const response = await axios.get("http://localhost:8000/symptoms")
+    const response = await axios.get(`${ML_API_URL}/symptoms`)
     res.json(response.data)
   } catch (error) {
     res.status(500).json({
@@ -46,7 +47,7 @@ app.post("/api/predict", protect, async (req, res) => {
       });
     }
 
-    const mlResponse = await axios.post("http://localhost:8000/predict", {
+    const mlResponse = await axios.post(`${ML_API_URL}/predict`, {
       symptoms,
     });
 
