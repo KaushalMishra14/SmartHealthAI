@@ -1,0 +1,248 @@
+{
+    "Fungal infection": {
+        "home_remedy": ["Apply aloe vera gel on the affected area", "Keep the area clean and dry"],
+        "ayurvedic": ["Apply neem paste", "Use turmeric powder on affected skin"],
+        "doctor_advice": "Consult a dermatologist if infection persists",
+        "learn_more": "https://medlineplus.gov/fungalinfections.html"
+    },
+    "Allergy": {
+        "home_remedy": ["Take antihistamine as recommended", "Avoid allergen triggers"],
+        "ayurvedic": ["Use turmeric milk", "Apply sandalwood paste on affected skin"],
+        "doctor_advice": "Consult an allergist for proper testing and treatment",
+        "learn_more": "https://medlineplus.gov/allergy.html"
+    },
+    "GERD": {
+        "home_remedy": ["Avoid spicy and oily foods", "Eat small meals frequently"],
+        "ayurvedic": ["Drink ginger tea", "Use licorice root remedies"],
+        "doctor_advice": "Consult a gastroenterologist for diagnosis and treatment",
+        "learn_more": "https://medlineplus.gov/gerd.html"
+    },
+    "Chronic cholestasis": {
+        "home_remedy": ["Maintain a healthy diet", "Avoid alcohol and fatty foods"],
+        "ayurvedic": ["Use turmeric and milk thistle supplements", "Drink warm ginger water"],
+        "doctor_advice": "Consult a hepatologist for liver function management",
+        "learn_more": "https://medlineplus.gov/cholestasis.html"
+    },
+    "Drug Reaction": {
+        "home_remedy": ["Stop the suspected drug", "Take antihistamines if advised"],
+        "ayurvedic": ["Use aloe vera for skin reactions", "Drink warm turmeric milk"],
+        "doctor_advice": "Consult a doctor immediately for severe reactions",
+        "learn_more": "https://medlineplus.gov/drugreactions.html"
+    },
+    "Peptic ulcer disease": {
+        "home_remedy": ["Avoid spicy food", "Eat small frequent meals"],
+        "ayurvedic": ["Drink licorice root tea", "Use aloe vera juice"],
+        "doctor_advice": "Consult a gastroenterologist for proper medication",
+        "learn_more": "https://medlineplus.gov/pepticulcer.html"
+    },
+    "AIDS": {
+        "home_remedy": ["Maintain healthy nutrition", "Avoid infections and stay hygienic"],
+        "ayurvedic": ["Use Ashwagandha supplements", "Tulsi tea for immunity"],
+        "doctor_advice": "Consult an infectious disease specialist for ART treatment",
+        "learn_more": "https://medlineplus.gov/aids.html"
+    },
+    "Diabetes": {
+        "home_remedy": ["Avoid sugar and refined carbs", "Exercise regularly"],
+        "ayurvedic": ["Bitter gourd juice", "Fenugreek seeds"],
+        "doctor_advice": "Consult an endocrinologist for monitoring and medication",
+        "learn_more": "https://medlineplus.gov/diabetes.html"
+    },
+    "Gastroenteritis": {
+        "home_remedy": ["Drink plenty of fluids", "Avoid solid food for a few hours"],
+        "ayurvedic": ["Drink ginger and cumin decoction", "Use turmeric water"],
+        "doctor_advice": "Consult a doctor if symptoms persist or dehydration occurs",
+        "learn_more": "https://medlineplus.gov/gastroenteritis.html"
+    },
+    "Bronchial Asthma": {
+        "home_remedy": ["Avoid allergens", "Use steam inhalation"],
+        "ayurvedic": ["Use turmeric and honey mixture", "Tulsi leaf decoction"],
+        "doctor_advice": "Consult a pulmonologist for proper inhalers and treatment",
+        "learn_more": "https://medlineplus.gov/asthma.html"
+    },
+    "Hypertension": {
+        "home_remedy": ["Reduce salt intake", "Exercise regularly"],
+        "ayurvedic": ["Use garlic and cinnamon supplements", "Drink herbal teas"],
+        "doctor_advice": "Consult a cardiologist for medication and monitoring",
+        "learn_more": "https://medlineplus.gov/highbloodpressure.html"
+    },
+    "Migraine": {
+        "home_remedy": ["Rest in dark, quiet room", "Apply cold compress on head"],
+        "ayurvedic": ["Use Brahmi oil massage", "Drink ginger tea"],
+        "doctor_advice": "Consult a neurologist for medication and prevention",
+        "learn_more": "https://medlineplus.gov/migraine.html"
+    },
+    "Cervical spondylosis": {
+        "home_remedy": ["Use proper posture", "Do gentle neck exercises"],
+        "ayurvedic": ["Apply Mahanarayan oil", "Use yoga and stretching"],
+        "doctor_advice": "Consult an orthopedic doctor for therapy",
+        "learn_more": "https://medlineplus.gov/spondylosis.html"
+    },
+    "Paralysis (brain hemorrhage)": {
+        "home_remedy": ["Physiotherapy", "Supportive care and balanced diet"],
+        "ayurvedic": ["Use ashwagandha and brahmi for recovery", "Massage with medicated oils"],
+        "doctor_advice": "Consult a neurologist immediately for treatment",
+        "learn_more": "https://medlineplus.gov/stroke.html"
+    },
+    "Jaundice": {
+        "home_remedy": ["Drink plenty of water", "Eat light meals"],
+        "ayurvedic": ["Use turmeric milk", "Boiled bitter gourd juice"],
+        "doctor_advice": "Consult a hepatologist for liver function monitoring",
+        "learn_more": "https://medlineplus.gov/jaundice.html"
+    },
+    "Malaria": {
+        "home_remedy": ["Rest well", "Drink lots of fluids"],
+        "ayurvedic": ["Use neem leaf decoction", "Use tulsi tea"],
+        "doctor_advice": "Consult a doctor for anti-malarial medication",
+        "learn_more": "https://medlineplus.gov/malaria.html"
+    },
+    "Chicken pox": {
+        "home_remedy": ["Apply calamine lotion", "Keep skin clean"],
+        "ayurvedic": ["Neem paste on skin", "Use aloe vera gel"],
+        "doctor_advice": "Consult a pediatrician or dermatologist",
+        "learn_more": "https://medlineplus.gov/chickenpox.html"
+    },
+    "Dengue": {
+        "home_remedy": ["Drink lots of fluids", "Rest completely"],
+        "ayurvedic": ["Papaya leaf juice", "Giloy juice for immunity"],
+        "doctor_advice": "Consult a doctor for monitoring platelet count",
+        "learn_more": "https://medlineplus.gov/dengue.html"
+    },
+    "Typhoid": {
+        "home_remedy": ["Drink ORS", "Eat light, soft foods"],
+        "ayurvedic": ["Use turmeric milk", "Boiled bitter gourd juice"],
+        "doctor_advice": "Consult a doctor for antibiotics",
+        "learn_more": "https://medlineplus.gov/typhoidfever.html"
+    },
+    "hepatitis A": {
+        "home_remedy": ["Rest", "Eat light and nutritious food"],
+        "ayurvedic": ["Use turmeric milk", "Giloy and neem decoction"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/hepatitisa.html"
+    },
+    "Hepatitis B": {
+        "home_remedy": ["Avoid alcohol", "Eat healthy meals"],
+        "ayurvedic": ["Turmeric milk", "Neem leaves decoction"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/hepatitisb.html"
+    },
+    "Hepatitis C": {
+        "home_remedy": ["Healthy diet", "Avoid alcohol"],
+        "ayurvedic": ["Use milk thistle supplements", "Turmeric decoction"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/hepatitisc.html"
+    },
+    "Hepatitis D": {
+        "home_remedy": ["Rest and nutrition", "Avoid alcohol"],
+        "ayurvedic": ["Turmeric milk", "Giloy extract"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/hepatitisd.html"
+    },
+    "Hepatitis E": {
+        "home_remedy": ["Drink clean water", "Eat light meals"],
+        "ayurvedic": ["Neem and turmeric decoction", "Tulsi tea"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/hepatitise.html"
+    },
+    "Alcoholic hepatitis": {
+        "home_remedy": ["Stop alcohol completely", "Healthy diet"],
+        "ayurvedic": ["Turmeric and neem decoction", "Giloy extract"],
+        "doctor_advice": "Consult a hepatologist",
+        "learn_more": "https://medlineplus.gov/alcoholicliverdisease.html"
+    },
+    "Tuberculosis": {
+        "home_remedy": ["Eat nutritious food", "Rest and avoid stress"],
+        "ayurvedic": ["Use giloy and tulsi decoction", "Ashwagandha supplements"],
+        "doctor_advice": "Consult a pulmonologist for anti-TB treatment",
+        "learn_more": "https://medlineplus.gov/tuberculosis.html"
+    },
+    "Common Cold": {
+        "home_remedy": ["Drink warm fluids", "Steam inhalation"],
+        "ayurvedic": ["Ginger and tulsi tea", "Honey and turmeric"],
+        "doctor_advice": "Consult a doctor if symptoms persist",
+        "learn_more": "https://medlineplus.gov/commoncold.html"
+    },
+    "Pneumonia": {
+        "home_remedy": ["Plenty of rest", "Drink fluids"],
+        "ayurvedic": ["Tulsi decoction", "Turmeric milk"],
+        "doctor_advice": "Consult a pulmonologist immediately",
+        "learn_more": "https://medlineplus.gov/pneumonia.html"
+    },
+    "Dimorphic hemmorhoids(piles)": {
+        "home_remedy": ["Warm sitz bath", "High-fiber diet"],
+        "ayurvedic": ["Use triphala paste", "Apply coconut oil externally"],
+        "doctor_advice": "Consult a gastroenterologist",
+        "learn_more": "https://medlineplus.gov/hemorrhoids.html"
+    },
+    "Heart attack": {
+        "home_remedy": ["Call emergency services", "Chew aspirin if advised"],
+        "ayurvedic": ["Use arjuna bark supplements"],
+        "doctor_advice": "Immediate hospitalization required",
+        "learn_more": "https://medlineplus.gov/heartattack.html"
+    },
+    "Varicose veins": {
+        "home_remedy": ["Elevate legs", "Wear compression stockings"],
+        "ayurvedic": ["Apply medicated oils", "Guggul decoction"],
+        "doctor_advice": "Consult a vascular surgeon",
+        "learn_more": "https://medlineplus.gov/varicoseveins.html"
+    },
+    "Hypothyroidism": {
+        "home_remedy": ["Eat iodine-rich food", "Regular checkups"],
+        "ayurvedic": ["Ashwagandha and guggul", "Triphala"],
+        "doctor_advice": "Consult an endocrinologist",
+        "learn_more": "https://medlineplus.gov/hypothyroidism.html"
+    },
+    "Hyperthyroidism": {
+        "home_remedy": ["Avoid caffeine", "Balanced diet"],
+        "ayurvedic": ["Use guggul and triphala", "Tulsi tea"],
+        "doctor_advice": "Consult an endocrinologist",
+        "learn_more": "https://medlineplus.gov/hyperthyroidism.html"
+    },
+    "Hypoglycemia": {
+        "home_remedy": ["Eat frequent small meals", "Carry glucose tablets"],
+        "ayurvedic": ["Use fenugreek and bitter gourd"],
+        "doctor_advice": "Consult an endocrinologist if frequent episodes",
+        "learn_more": "https://medlineplus.gov/lowbloodsugar.html"
+    },
+    "Osteoarthristis": {
+        "home_remedy": ["Exercise gently", "Use heat pads"],
+        "ayurvedic": ["Apply Mahanarayan oil", "Use turmeric decoction"],
+        "doctor_advice": "Consult an orthopedic doctor",
+        "learn_more": "https://medlineplus.gov/osteoarthritis.html"
+    },
+    "Arthritis": {
+        "home_remedy": ["Gentle movement", "Warm compresses"],
+        "ayurvedic": ["Turmeric and ginger paste", "Ashwagandha"],
+        "doctor_advice": "Consult a rheumatologist",
+        "learn_more": "https://medlineplus.gov/arthritis.html"
+    },
+    "(vertigo) Paroymsal  Positional Vertigo": {
+        "home_remedy": ["Epley maneuver", "Avoid sudden head movements"],
+        "ayurvedic": ["Use Brahmi oil massage", "Ginger decoction"],
+        "doctor_advice": "Consult an ENT specialist",
+        "learn_more": "https://medlineplus.gov/vertigo.html"
+    },
+    "Acne": {
+        "home_remedy": ["Wash face gently twice a day", "Apply honey on affected areas"],
+        "ayurvedic": ["Neem paste on skin", "Turmeric paste"],
+        "doctor_advice": "Consult a dermatologist for severe acne",
+        "learn_more": "https://medlineplus.gov/acne.html"
+    },
+    "Urinary tract infection": {
+        "home_remedy": ["Drink plenty of water", "Urinate frequently"],
+        "ayurvedic": ["Cranberry juice", "Use coriander decoction"],
+        "doctor_advice": "Consult a urologist for antibiotics",
+        "learn_more": "https://medlineplus.gov/urinarytractinfections.html"
+    },
+    "Psoriasis": {
+        "home_remedy": ["Moisturize skin", "Avoid scratching"],
+        "ayurvedic": ["Neem oil application", "Turmeric paste"],
+        "doctor_advice": "Consult a dermatologist",
+        "learn_more": "https://medlineplus.gov/psoriasis.html"
+    },
+    "Impetigo": {
+        "home_remedy": ["Keep area clean", "Apply antibacterial ointment"],
+        "ayurvedic": ["Neem paste", "Turmeric application"],
+        "doctor_advice": "Consult a dermatologist",
+        "learn_more": "https://medlineplus.gov/impetigo.html"
+    }
+}
