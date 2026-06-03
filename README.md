@@ -4,22 +4,21 @@ An AI-powered medical recommendation system that predicts diseases from symptoms
 
 Features :
 
-> Disease prediction using TensorFlow model,
+* Disease prediction using TensorFlow model,
 
-> Symptom-based diagnosis,
+* Symptom-based diagnosis,
 
-> Home remedies and Ayurvedic suggestions,
+* Home remedies and Ayurvedic suggestions,
 
-> AI health chatbot powered by Gemini,
+* AI health chatbot powered by Gemini,
 
-> User authentication (JWT),
+* User authentication (JWT),
 
-> Personal prediction history tracking,
+* Personal prediction history tracking,
 
-> MongoDB Atlas database,
+* MongoDB Atlas database,
 
-> Responsive React frontend
-
+* Responsive React frontend
 
 
 
