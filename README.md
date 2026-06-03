@@ -4,21 +4,22 @@ An AI-powered medical recommendation system that predicts diseases from symptoms
 
 Features :
 
-Disease prediction using TensorFlow model,
+> Disease prediction using TensorFlow model,
 
-Symptom-based diagnosis,
+> Symptom-based diagnosis,
 
-Home remedies and Ayurvedic suggestions,
+> Home remedies and Ayurvedic suggestions,
 
-AI health chatbot powered by Gemini,
+> AI health chatbot powered by Gemini,
 
-User authentication (JWT),
+> User authentication (JWT),
 
-Personal prediction history tracking,
+> Personal prediction history tracking,
 
-MongoDB Atlas database,
+> MongoDB Atlas database,
 
-Responsive React frontend
+> Responsive React frontend
+
 
 
 
@@ -43,15 +44,18 @@ Machine Learning-
 * NumPy
 * Pandas
 
+
+
 Deployment :
 
-Frontend- Vercel
+- Frontend- Vercel
 
-Backend- Render
+- Backend- Render
 
-ML API- Hugging Face Spaces
+- ML API- Hugging Face Spaces
 
-Database- MongoDB Atlas
+- Database- MongoDB Atlas
+
 
 
 Project Structure:
@@ -65,6 +69,7 @@ SmartHealthAI/
 ─ ml-api/       # Flask ML API
 
 
+
 How It Works:
 
 1. User selects symptoms.
@@ -74,6 +79,8 @@ How It Works:
 5. Backend stores history in MongoDB.
 6. Results are shown to the user.
 
+
+
 Future Enhancements :
 
 * Doctor consultation feature
@@ -81,6 +88,7 @@ Future Enhancements :
 * PDF medical reports
 * Multi-language support
 * Voice-based symptom input
+
 
 Live Demo (Frontend):
 https://smart-health-ai-seven.vercel.app/
@@ -90,6 +98,7 @@ https://smarthealth-backend-8u2x.onrender.com
 
 ML API:
 https://kaushal1407-smarthealth-ml-api-n.hf.space
+
 
 
 Author :
